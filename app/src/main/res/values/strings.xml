@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P04 Reservation</string>
+    <string name="name">Name:</string>
+    <string name="entername">Enter your name</string>
+    <string name="mobile">Mobile Number:</string>
+    <string name="entermobile">Enter your mobile no.</string>
+    <string name="groupsize">Size of Group:</string>
+    <string name="entergroupsize">Enter size of group</string>
+    <string name="selecttime">Select the time for your reservation</string>
+    <string name="selectdate">Select the date for your reservation</string>
+    <string name="asksmoking">Smoking or non-smoking table?</string>
+    <string name="smoking">Smoking</string>
+    <string name="nonsmoking">Non-smoking</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirm</string>
+</resources>
